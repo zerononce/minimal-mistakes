@@ -15,7 +15,7 @@ title                    : "Librehash"
 title_separator          : "-"
 subtitle                 : "Free the Hash"
 name                     : &name "cryptomedication" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "Putting a voice on freedom"
 url                      : https://zerononce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
